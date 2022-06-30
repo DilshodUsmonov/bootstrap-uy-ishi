@@ -1,0 +1,128 @@
+.col {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.uy {
+  background: #004147;
+  height: 800px;
+}
+
+.uy__card {
+  width: 100%;
+  max-width: 80px;
+}
+
+.uy > .uy__title {
+  margin-top: 300px;
+}
+
+.aylana2 {
+  width: 100%;
+  max-width: 35px;
+  height: 35px;
+  margin-top: -4px;
+}
+
+.nikita--kopi {
+  margin-top: -20px;
+}
+
+.aylana {
+  width: 100%;
+  max-width: 35px;
+  height: 35px;
+  background-color: white;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 30px;
+  background-color: #F37F7C;
+}
+
+.aylana:hover {
+  background-color: #7AC7C5;
+}
+
+.fa-plus {
+  color: black;
+}
+
+.fa-minus {
+  color: black;
+}
+
+.uy--card {
+  width: 100%;
+  height: 252px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 0 5px;
+  background: #022F34;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.nikita {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.icon > a > i {
+  font-size: 20px;
+  color: white;
+}
+
+blockquote {
+  width: 100%;
+  max-width: 300px !important;
+  height: 70px;
+  margin-bottom: 40px;
+}
+
+@media only screen and (max-width: 992.9px) {
+  .uy {
+    height: 1100px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .uy {
+    height: 2000px;
+  }
+}
+
+@media only screen and (max-width: 578.9px) {
+  .uy {
+    height: 2000px;
+  }
+}
+/*# sourceMappingURL=main.css.map */
